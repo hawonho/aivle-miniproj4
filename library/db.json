@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "별빛 아래의 서점",
+      "author": "홍길동",
+      "content": "도서 소개 내용",
+      "coverImageUrl": "https://kmong.com/gig/544130",
+      "createdAt": "2026-11-20T09:00:00.000Z",
+      "updatedAt": "2026-11-20T09:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "달빛 아래의 서점",
+      "author": "달길동",
+      "content": "도서 소개 내용",
+      "coverImageUrl": "https://www.canva.com/ko_kr/book-covers/templates/",
+      "createdAt": "2026-11-20T09:00:00.000Z",
+      "updatedAt": "2026-11-20T09:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "햇빛 아래의 서점",
+      "author": "해길동",
+      "content": "도서 소개 내용",
+      "coverImageUrl": "https://template.canva.com/EAF8mBewQSA/1/0/1003w-yMk7izQlw0Q.jpg",
+      "createdAt": "2026-11-20T09:00:00.000Z",
+      "updatedAt": "2026-11-20T09:00:00.000Z"
+    }
+  ]
+}
