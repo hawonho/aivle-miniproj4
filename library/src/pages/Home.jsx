@@ -4,8 +4,6 @@ import Header from "../components/Header";
 function Home() {
     return (
         <>
-            <Header />
-
             <Link to='/books/new'>
                 <button>도서 등록</button>
             </Link>

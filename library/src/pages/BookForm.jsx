@@ -4,8 +4,6 @@ import Header from "../components/Header";
 function BookForm() {
     return (
         <>
-            <Header />
-
             <h2>도서 등록</h2>
             <input placeholder="도서 제목" />
             <input placeholder="작성자" />
