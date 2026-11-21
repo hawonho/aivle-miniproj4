@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import Header from "../components/Header";
 
-function BookCreate() {
+function BookForm() {
     return (
         <>
             <Header />
@@ -16,4 +16,4 @@ function BookCreate() {
     );
 }
 
-export default BookCreate;
+export default BookForm;
